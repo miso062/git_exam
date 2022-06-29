@@ -3,3 +3,5 @@ test
 test2
   success2
 test3
+  success3 (2:57)
+test3
